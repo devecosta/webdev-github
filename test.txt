@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this another commit!
+=======
+this is my first commit!!!! new ff
+>>>>>>> feature
 second cimmit
